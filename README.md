@@ -1,10 +1,14 @@
 # blockchain-demo
 Creating a blockchain of our own from scratch.
 
+</br>
+
 ## Requirements for the demo:
 * Python3 - Programming language
 * Flask - Web framework for Python
 * Postman - API
+
+</br>
 
 ## Introduction
 * Through Flask Web App, we run our code on port 5000.
@@ -21,14 +25,19 @@ Creating a blockchain of our own from scratch.
 ```
 /is_valid
 ```
+</br>
 
 ## /get_chain - Shows all the blocks in the chain with all the infos it contains.
 
 ![1](https://user-images.githubusercontent.com/71061070/192030894-8e5c8ab3-ff84-4de9-a0e2-540a4567b7ca.jpg)
 
+</br>
+
 ## /mine_block - Adds a new block to the chain with all the infos it contains.
 
 ![2](https://user-images.githubusercontent.com/71061070/192031308-2972b3b3-d787-426d-bcdb-8b5ea31e875f.jpg)
+
+</br>
 
 ## /is_valid - Checks whether the chain is valid.
 
