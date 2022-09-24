@@ -22,17 +22,14 @@ Creating a blockchain of our own from scratch.
 /is_valid
 ```
 
-## /get_chain - Shows all the blocks in the chain with all the information it contains.
+## /get_chain - Shows all the blocks in the chain with all the infos it contains.
 
 ![1](https://user-images.githubusercontent.com/71061070/192030894-8e5c8ab3-ff84-4de9-a0e2-540a4567b7ca.jpg)
 
-## /mine_block - Adds a new block to the chain with all the information it contains.
+## /mine_block - Adds a new block to the chain with all the infos it contains.
 
 ![2](https://user-images.githubusercontent.com/71061070/192031308-2972b3b3-d787-426d-bcdb-8b5ea31e875f.jpg)
 
 ## /is_valid - Checks whether the chain is valid.
 
 ![3](https://user-images.githubusercontent.com/71061070/192032149-ce9d8371-4465-491f-8363-155febad5c33.jpg)
-
-
-
