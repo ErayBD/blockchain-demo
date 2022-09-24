@@ -6,7 +6,7 @@ Creating a blockchain of our own from scratch.
 * Flask - Web framework for Python
 * Postman - API
 
-## Introducting
+## Introduction
 * Through Flask Web App, we run our code on port 5000.
 
 ![1](https://user-images.githubusercontent.com/71061070/192028851-e3fa1585-5b57-44bc-866e-d65ea404ea4d.jpg)
